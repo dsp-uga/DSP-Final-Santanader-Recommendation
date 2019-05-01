@@ -54,7 +54,7 @@ SVD in the context of recommendation systems is used as a collaborative filterin
 There are no specific guidlines for contibuting. If you see something that could be improved, send a pull request! If you think something should be done differently (or is just-plain-broken), please create an issue.
 
 # Reference
-[1] https://medium.com/@m_n_malaeb/singular-value-decomposition-svd-in-recommender-systems-for-non-math-statistics-     programming-4a622de653e9
+[1] https://medium.com/@m_n_malaeb/singular-value-decomposition-svd-in-recommender-systems-for-non-math-statistics-programming-4a622de653e9
 
 [2] https://medium.com/@jonathan_hui/map-mean-average-precision-for-object-detection-45c121a31173
 
