@@ -58,7 +58,7 @@ There are no specific guidlines for contibuting. If you see something that could
 
 [2] https://medium.com/@jonathan_hui/map-mean-average-precision-for-object-detection-45c121a31173
 
-[3] 
+[3] https://github.com/Currie32/Santander-Product-Recommendation/blob/master/Santander_Bank_Analysis.ipynb
 
 [4] 
 
