@@ -15,6 +15,9 @@ The data set provided by Santander does not include any real Santander Spain cus
 # Approach
 We tried three approach which are as follows:
 ### xgboast
+
+XGBoost is an implementation of gradient boosted decision trees designed for speed and performance. XGBoost dominates structured or tabular datasets on classification and regression predictive modeling problems. It has recently been dominating applied machine learning and Kaggle competitions for structured or tabular data.
+
 ### Sigular valued decompositions: 
 
 SVD in the context of recommendation systems is used as a collaborative filtering (CF) algorithm. SVD is a matrix factorization technique that is usually used to reduce the number of features of a data set by reducing space dimensions from N to K where K < N. (for more details)[Click Here](https://medium.com/@m_n_malaeb/singular-value-decomposition-svd-in-recommender-systems-for-non-math-statistics-programming-4a622de653e9)
