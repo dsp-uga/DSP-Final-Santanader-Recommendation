@@ -48,6 +48,10 @@ Required parameters:
 
 `<data directory>` Path to the data folder created as per the specifictions.
 
+To run the Xboost.py, you need to edit the file location on `#Line[2]`and comment out the last line
+
+### To run
+`Product-Recom.py`
 
 
 # Results
@@ -66,6 +70,10 @@ Required parameters:
 
 # Contribution
 There are no specific guidlines for contibuting. If you see something that could be improved, send a pull request! If you think something should be done differently (or is just-plain-broken), please create an issue.
+
+# Ethics
+
+This project was made as a part of the Kaggle competiotion for `Santander-Product-Recommendation`. The data as per the Kaggle is not real-world data. This project can be used as a starting point for product recommendation and should not be used for any other purpose.
 
 # Reference
 [1] https://medium.com/@m_n_malaeb/singular-value-decomposition-svd-in-recommender-systems-for-non-math-statistics-programming-4a622de653e9
