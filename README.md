@@ -25,6 +25,8 @@ SVD in the context of recommendation systems is used as a collaborative filterin
 
 ### Random forest:
 
+For random forest classifier, since there are 24 different attributes to be predicted we are training 224 different classifiers for each of the attributes and then using the corresponding classifiers to make prediction for each of the attributes.
+
 # Data
 * The training data consists of nearly 10 million users with monthly historical user and product data between January 2015     and May 2016.
 * Data consist of 24 features of the customer and another 24 features corresponding to the products of the bank.
@@ -36,7 +38,16 @@ SVD in the context of recommendation systems is used as a collaborative filterin
 * Python-3.6
 * GCP (google cloud platform)
 
-# Scripts
+# How to run:
+
+### To run
+
+`svd.py --data_path \<data directory>\`
+
+Required parameters:
+
+`<data directory>` Path to the data folder created as per the specifictions.
+
 
 
 # Results
